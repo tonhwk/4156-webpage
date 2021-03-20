@@ -57,6 +57,16 @@ const Items = [
     format: "jpeg",
     id: "ten",
   },
+  {
+    name: "The Son of Ape",
+    format: "jpeg",
+    id: "eleven",
+  },
+  {
+    name: "001 - SELF PORTRAIT WITH A HIGH FIDELITY HUMAN FEMALE",
+    format: "png",
+    id: "twelve",
+  },
 ];
 
 //
