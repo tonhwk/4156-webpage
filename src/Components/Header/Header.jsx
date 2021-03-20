@@ -1,5 +1,4 @@
 import React from "react";
-import ProfilePicture from "../../Assets/4156400x400.png";
 
 import { Card, Image, H1, Container } from "./Header.styles";
 
@@ -8,7 +7,7 @@ function Header() {
     <Container>
       <Card>
         <H1>4152</H1>
-        <Image src={ProfilePicture}></Image>
+        <Image src={"./Assets/Profile/4156400x400.jpeg"}></Image>
       </Card>
     </Container>
   );
