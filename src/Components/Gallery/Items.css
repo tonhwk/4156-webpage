@@ -60,3 +60,48 @@
   grid-column: 1 / span 2;
   grid-row: 3 / span 3;
 }
+
+.thirteen {
+  grid-column: 4 / span 2;
+  grid-row: 5;
+}
+
+.fourteen {
+  grid-column: 10 / span 3;
+  grid-row: 3 / span 3;
+}
+
+.fiftteen {
+  grid-column: 9;
+  grid-row: 5 / span 2;
+}
+
+.sixteen {
+  grid-column: 5;
+  grid-row: 4;
+}
+
+.seventeen {
+  grid-column: 3;
+  grid-row: 5;
+}
+
+.eighteen {
+  grid-column: 9;
+  grid-row: 4;
+}
+
+.nineteen {
+  grid-column: 9 / span 3;
+  grid-row: 7 / span 3;
+}
+
+.twenty {
+  grid-column: 2 / span 4;
+  grid-row: 6 / span 3;
+}
+
+.twentyone {
+  grid-column: 11;
+  grid-row: 6;
+}
